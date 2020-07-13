@@ -7,4 +7,5 @@ Is your code become messy because of too much document.getElement? Use **EasyDOM
 
 ## Usage
 To get started, include the **easydom.js** on your html.
+
 ```<script src="easydom.js"></script>```
